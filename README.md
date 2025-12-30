@@ -75,6 +75,7 @@ The project integrates statistical analysis, data visualization, and supervised 
 ---
 
 ## 📂 Repository Structure
+
 ├── wine_quality.ipynb
 ├── Wine-Quality-Analysis.pptx
 ├── README.md
@@ -111,4 +112,3 @@ The project integrates statistical analysis, data visualization, and supervised 
 
 
 
-## 📂 Repository Structure
