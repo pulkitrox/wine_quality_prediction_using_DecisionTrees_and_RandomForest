@@ -79,6 +79,7 @@ The project integrates statistical analysis, data visualization, and supervised 
 ├── Wine-Quality-Analysis.pptx
 ├── README.md
 ├── wine_data.csv
+
 ---
 
 ## 🛠️ Technologies Used
